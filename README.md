@@ -1,3 +1,5 @@
+<img src=".github/cover.png" alt="cover" width="100%" />
+
 <div align="center">
 
 # ⚡ Antopus CRM & B2B Lead Intelligence Engine
