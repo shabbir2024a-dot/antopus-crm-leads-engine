@@ -5,3 +5,8 @@ node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# lead data stays on this computer
+*.db
+*prospects*.json
+generate_*leads*.js
